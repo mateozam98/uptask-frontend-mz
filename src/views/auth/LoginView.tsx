@@ -38,7 +38,7 @@ export default function LoginView() {
         {/* Agregar mensaje con las credenciales de prueba */}
         <div className="mt-5 bg-yellow-100 p-4 text-gray-700 rounded">
           <p className="text-lg">
-            Credenciales de prueba: <strong>user: demo2@demo2.com</strong>, <strong>pass: 12345678</strong>
+            Credenciales de prueba: <br /><strong>user: demo2@demo2.com</strong> <br /> <strong>pass: 12345678</strong>
           </p>
         </div>
 
